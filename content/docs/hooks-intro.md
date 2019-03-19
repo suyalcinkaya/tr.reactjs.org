@@ -41,13 +41,12 @@ React 2018 Konferansı'nda, Sophie Alpert ve Dan Abramov Hook'ları tanıttı, a
 
 <iframe width="650" height="366" src="//www.youtube.com/embed/dpw9EHDh2bM" frameborder="0" allowfullscreen></iframe>
 
-## Kırıcı Değişiklikler Yok {#no-breaking-changes}
+## Mevcut Kodu Bozan Değişiklikler Yok {#no-breaking-changes}
 
 Devam etmeden önce, unutmayın ki Hook'lar:
 
-* **Tamamen dahildir.** Hook'ları mevcut herhangi bir kodu tekrar yazmadan birkaç bileşende deneyebilirsiniz. Fakat istemiyorsanız şu anda Hook'ları öğrenmek veya kullanmak zorunda değilsiniz.
-* **100% geriye uyumludur.** Hook'lar herhangi bir kırıcı değişiklik içermiyor.
-
+* **Tamamen yerleşiktir.** Hook'ları mevcut herhangi bir kodu tekrar yazmadan birkaç bileşende deneyebilirsiniz. Fakat istemiyorsanız şu anda Hook'ları öğrenmek veya kullanmak zorunda değilsiniz.
+* **100% geriye uyumludur.** Hook'lar mevcut kodu bozan herhangi bir değişiklik içermiyor.
 * **Şu an kullanılabilir.** Hook'lar v16.8.0 sürümünün yayımlanması ile şu an kullanıma uygundur.
 
 **React'ten sınıfları kaldırmak gibi bir planımız yok.** Hook'lar için kademeli kabul stratejisi hakkında daha fazla bilgiyi bu sayfanın [alt kısmında](#gradual-adoption-strategy) bulabilirsiniz.
